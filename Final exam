@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Background.css">
+    <title>My Web Prescence</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web prescence</title>
+</head>
+<body background="Space background.jpg">
+    <div class="card">
+        
+    </div>
+    <h1>My website</h1>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="space.html">Space</a>
+    <hr />
+    <h2> Welcome!</h2>
+    <p>My name is Nicholas Pimentel and my major is programming</p>
+    <p>This is my first website for my Final in CSC102</p>
+    <p>I go to the University of Advancing Technology on 2625 W Baseline RD</p>
+    <p>Email me at nspimental1@gmail.com</p>
+</body>
+</html>
